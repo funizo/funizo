@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=_32C81E&height=300&section=header&text=hello&fontColor=ffffff%20render&fontSize=90)
 
 <div align="center">
 
@@ -34,3 +35,5 @@
 </p>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=_32C81E&height=300&section=footer)
