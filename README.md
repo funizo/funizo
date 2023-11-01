@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Funizo Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Funizo%20Github!&fontSize=90)
 
 <div align="center">
 
