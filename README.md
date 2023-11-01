@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_32C81E&height=300&section=header&text=hello&fontColor=ffffff%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=32C81E&height=300&section=header&text=hello&fontColor=ffffff%20render&fontSize=90)
 
 <div align="center">
 
@@ -36,4 +36,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=_32C81E&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=32C81E&height=300&section=footer)
