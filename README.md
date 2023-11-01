@@ -6,7 +6,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=funizo&label=Profile%20views&color=0e75b6&style=flat" alt="funizo" /> </p>
 
-🌱 I’m currently learning **Javascript,React.js**
+🌱 I’m currently learning **Javascript,React.js** <br>
 📞 Connect with me: **k4160621@naver.com**
 
 <p> 
