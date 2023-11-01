@@ -1,4 +1,3 @@
-<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <h1 align="center">Hi 👋, I'm 김세준</h1>
 <h3 align="center">엉덩이싸움 잘하는 개발자 입니다.</h3>
