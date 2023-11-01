@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=32C81E&height=300&section=header&text=hello&fontColor=ffffff%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Funizo Github!&fontSize=90)
 
 <div align="center">
 
@@ -36,4 +36,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=32C81E&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
