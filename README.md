@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm 김세준</h1>
-<h3 align="center">엉덩이싸움 잘하는 개발자 입니다.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=funizo&label=Profile%20views&color=0e75b6&style=flat" alt="funizo" /> </p>
-
-- 🌱 I’m currently learning **Javascript,React.js**
-
-
-<h3 align="center">Connect with me: k4160621@naver.com</h3>
-
-
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <h1 align="center">Hi 👋, I'm 김세준</h1>
