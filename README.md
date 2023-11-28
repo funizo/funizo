@@ -25,7 +25,7 @@
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)<br>
 **[ Backend ]**<br>
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badg)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badg)<br>
 **[ DB ]**<br>
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
