@@ -16,7 +16,7 @@
 **[ Programming Languages ]**<br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![python](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-
+![C#](https://img.shields.io/badge/-C#-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 **[ Frontend ]**<br>
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
