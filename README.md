@@ -43,12 +43,6 @@ Healthcare IT · System Integration · Web Development
 
 바탈 · 프론트엔드 개발 / 인턴
 
-<details>
-<summary><b>🎓 Education & Award</b></summary>
-
-인하공업전문대학 컴퓨터정보학과 · 2020.03 ~ 2023.06 · 편입 / 졸업
-
-</details>
 
 <div align="center">
 
